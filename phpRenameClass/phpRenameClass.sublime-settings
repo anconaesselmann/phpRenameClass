@@ -1,0 +1,21 @@
+/*
+ * These are the default settings. To prevent your settings from being lost with
+ * when  this  package is updated,  please  open the User settings  by going to:
+ *     "Sublime Text 2"->"Preferences"->"Package Settings"->
+ *                       "phpRenameClass"->"Settings - User"
+ *  and copy and paste the desired setting.
+ */
+{
+// ================================================================= //
+//                                                                   //
+//      Folder and file related setting                              //
+//                                                                   //
+// ================================================================= //
+
+    /*
+     * The default_path  is the starting point/root from where refactoring takes 
+     * place.  The UI will still ask for the root,  but has this value automati-
+     * cally inserted.
+     */
+	"default_path": "/"
+}
